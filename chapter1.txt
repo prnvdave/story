@@ -1,1 +1,3 @@
-this is the first edit
+this is the first edit, this part is added AS A DIFFERENT BRACNCH ON GIT VIA REATING A BRANCH WITH CMD: git branch branchname
+and then changing to thr different branch with git checkout branchname
+
